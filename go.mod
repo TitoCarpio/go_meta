@@ -1,3 +1,2 @@
-module go_meta
-
+module github.com/TitoCarpio/go_meta
 go 1.23.2
